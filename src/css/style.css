@@ -59,12 +59,12 @@ h1 {
 .text {
   margin-top: 60px;
   width: 1195px;
-  display: inline-block;
 }
 p {
   font-family: Helvetica;
   font-size: 16px;
   margin: 18px auto;
+  width: 951px;
 }
 .see-more {
   background-color: #0a22f4;
@@ -73,9 +73,10 @@ p {
   border-radius: 28px;
   margin: auto;
 }
-.see-more p {
+.more {
   color: #ffffff;
   font-size: 16px;
   text-align: center;
-  padding: 18px;
+  padding-top: 18px;
+  width: 207px;
 }
