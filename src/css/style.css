@@ -27,11 +27,13 @@ nav ul {
   width: 160px;
   height: 50px;
   border-radius: 28px;
+  text-align: center;
 }
 .contact a {
   color: black;
   margin: 18px;
   font-family: Helvetica;
+  font-weight: bold;
 }
 section {
   margin-top: -170px;
@@ -41,6 +43,7 @@ h1 {
   font-size: 28px;
   padding-top: 30px;
   font-family: Helvetica;
+  font-weight: bold;
 }
 .main-img {
   width: 1195px;
@@ -79,4 +82,5 @@ p {
   text-align: center;
   padding-top: 18px;
   width: 207px;
+  font-weight: bold;
 }
