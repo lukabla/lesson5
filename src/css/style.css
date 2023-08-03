@@ -90,6 +90,8 @@ h1 {
   background-color: #0020f4;
   margin-top: 180px;
   height: 1080px;
+  max-width: 1920px;
+  width: 100%;
 }
 .footer-text {
   padding-top: 275px;
